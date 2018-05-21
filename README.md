@@ -41,3 +41,12 @@ A simple classic password managing tool. Functionalities included:
 * `db_controller.php` controls the database operations. Specify your database details there.
 
 * Make sure the server details are mentioned in the file `mail_controller.php`
+
+* RUN `php -S localhost:8000` in the directory where the project is stored
+
+* Open `http://localhost:8000/login.php` in any browser
+
+# CREDITS
+
+The templates have been obtained from different sources. I do not own any rights on them.
+* DASHBOARD - Textured Orbs - https://www.html5webtemplates.co.uk/templates.html
